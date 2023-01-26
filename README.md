@@ -1,4 +1,4 @@
-# cryo-EM
+# Computational Methods in cryo-EM
 
 In this repository, you can find a collection of papers that use computational methods to address the subproblems in the cryo-EM workflow, especially the 3D reconstruction problem.
  
