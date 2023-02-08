@@ -1,6 +1,5 @@
-# Computational Methods in cryo-EM
-
-In this repository, you can find a collection of papers that use computational methods to address the subproblems in the cryo-EM workflow, especially the 3D reconstruction problem.
+# Cyro-EM
+Following is a list of computational methods that address challenges in cryo-EM 3D reconstruction problem.
  
 ## 3D Heterogeneous Reconstruction
 
@@ -37,6 +36,14 @@ In this repository, you can find a collection of papers that use computational m
 |2015|[Structure Sorting of Multiple Macromolecular States in Heterogeneous Cryo-EM Samples by 3D Multivariate Statistical Analysis](https://hal.science/hal-03827939/document)|
 |2015|[Directly reconstructing principal components of heterogeneous particles from cryo-EM images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4536832/)|
 
+# Orientation Estimation
+
+|Year|Title|
+|-----|-----|
+|1986|[Determination of the spatial orientation of arbitrarily arranged identical particles of unknown structure from their projections](https://gauss.math.yale.edu/~ag727/Vainstein-Goncharov1986.pdf)|
+|1987|[Angular reconstitution: A posteriori assignment of projection directions for 3D reconstruction](https://www.sciencedirect.com/science/article/pii/0304399187900787)|
+|2010|[Detecting consistent common lines in cryo-EM by voting](https://www.sciencedirect.com/science/article/pii/S1047847709003062)|
+|2011|[Three-dimensional structure determination from common lines in cryo-EM by eigenvectors and semidefinite programming](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3334316/)|
 
 ## Reviews
 
@@ -44,3 +51,5 @@ In this repository, you can find a collection of papers that use computational m
 |-----|-----|
 |2017|[Computational methods for analyzing conformational variability of macromolecular complexes from cryo-electron microscopy images](https://www.sciencedirect.com/science/article/pii/S0959440X16302445?via%3Dihub)|
 |2020|[Computational Methods for Single-Particle Cryo-EM](https://arxiv.org/abs/2003.13828)|
+
+# Multi-Scale Implicit Neural Representation
