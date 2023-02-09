@@ -3,7 +3,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
  
 ## 3D Heterogeneous Analysis/Reconstruction
 
-|Year|Pub|Title|
+|Year|Publisher|Title|
 |-----|-----|-----|
 |2012|Journal of Optical Society|[Three-dimensional reconstruction of the statistics of heterogeneous objects from a collection of one projection image of each object]()|
 |2013|JSB|[Dynamics in cryo EM reconstructions visualized with maximum-likelihood derived variance maps](https://www.sciencedirect.com/science/article/pii/S1047847712003176)|
@@ -26,7 +26,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
 
 ## 3D Homogeneous Reconstruction
 
-|Year|Pub|Title|
+|Year|Publisher|Title|
 |-----|-----|----|
 |2020|IEEE Transactions on Comp Imaging|[CryoGAN: A New Reconstruction Paradigm for Single-Particle Cryo-EM via Deep Adversarial Learning](https://www.biorxiv.org/content/10.1101/2020.03.20.001016v2)|
 |2021|ICCV|[CryoPoseNet: End-to-End Simultaneous Learning of Single-Particle Orientation and 3D Map Reconstruction From Cryo-Electron Microscopy Data](https://openaccess.thecvf.com/content/ICCV2021W/LCI/html/Nashed_CryoPoseNet_End-to-End_Simultaneous_Learning_of_Single-Particle_Orientation_and_3D_Map_ICCVW_2021_paper.html)|
@@ -35,7 +35,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
 
 ## Orientation Estimation
 
-|Year|Pub|Title|
+|Year|Publisher|Title|
 |-----|-----|-----|
 |1986|Soviet Physics Doklady|[Determination of the spatial orientation of arbitrarily arranged identical particles of unknown structure from their projections](https://gauss.math.yale.edu/~ag727/Vainstein-Goncharov1986.pdf)|
 |1987|Ultramicroscopy|[Angular reconstitution: A posteriori assignment of projection directions for 3D reconstruction](https://www.sciencedirect.com/science/article/pii/0304399187900787)|
@@ -52,7 +52,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
 
 ## Reviews
 
-|Year|Pub|Title|
+|Year|Publisher|Title|
 |-----|-----|-----|
 |2017|Current Opinion in Structural Biology|[Computational methods for analyzing conformational variability of macromolecular complexes from cryo-electron microscopy images](https://www.sciencedirect.com/science/article/pii/S0959440X16302445?via%3Dihub)|
 |2020|Annual Reviews|[Computational Methods for Single-Particle Cryo-EM](https://arxiv.org/abs/2003.13828)|
