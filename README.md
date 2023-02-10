@@ -18,9 +18,11 @@ Following is a list of computational methods that address challenges in cryo-EM 
 |2019|Inverse Problems|[Hyper-Molecules: on the Representation and Recovery of Dynamical Structures, with Application to Flexible Macro-Molecular Structures in Cryo-EM](https://arxiv.org/abs/1907.01589)|
 |2020|Nature|[Retrieving functional pathways of biomolecules from single-particle snapshots](https://www.nature.com/articles/s41467-020-18403-x)|
 |2020|ECCV|[Multi-CryoGAN: Reconstruction of Continuous Conformations in Cryo-EM Using Generative Adversarial Networks](https://openreview.net/forum?id=5PSL-CjHeP4)|
+|2020|Nature|[Non-uniform refinement: adaptive regularization improves single-particle cryo-EM reconstruction](https://www.nature.com/articles/s41592-020-00990-8)|
 |2021|Nature|[CryoDRGN: Reconstruction of heterogeneous cryo-EM structures using neural networks](https://www.nature.com/articles/s41592-020-01049-4)|
 |2021|ICCV|[CryoDRGN2: Ab initio neural reconstruction of 3D protein structures from real cryo-EM images](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhong_CryoDRGN2_Ab_Initio_Neural_Reconstruction_of_3D_Protein_Structures_From_ICCV_2021_paper.pdf)|
 |2021|Nature|[Deep learning-based mixed-dimensional Gaussian mixture model for characterizing variability in cryo-EM](https://www.nature.com/articles/s41592-021-01220-5)|
+|2021|JSB|[3D variability analysis: Resolving continuous flexibility and discrete heterogeneity from single particle cryo-EM](https://www.sciencedirect.com/science/article/pii/S1047847721000071)|
 |2021|bioArxiv|[3D flexible refinement: Structure and motion of flexible proteins from cryo-EM](https://www.biorxiv.org/content/biorxiv/early/2021/04/22/2021.04.22.440893.full.pdf)|
 |2022|NeurIPS|[Amortized Inference for Heterogeneous Reconstruction in Cryo-EM](https://arxiv.org/abs/2210.07387)|
 |2023|Nature|[Estimating conformational landscapes from Cryo-EM particles by 3D Zernike polynomials](https://www.nature.com/articles/s41467-023-35791-y)|
