@@ -8,6 +8,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
 |2012|Journal of Optical Society|[Three-dimensional reconstruction of the statistics of heterogeneous objects from a collection of one projection image of each object]()|
 |2013|JSB|[Dynamics in cryo EM reconstructions visualized with maximum-likelihood derived variance maps](https://www.sciencedirect.com/science/article/pii/S1047847712003176)|
 |2014|ISBI|[Covariance estimation using conjugate gradient for 3D classification in Cryo-EM](https://arxiv.org/abs/1412.0985)|
+|2014|National Academy of Sciences|[Trajectories of the ribosome as a Brownian nanomachine](https://www.pnas.org/doi/10.1073/pnas.1419276111)|
 |2015|Open Journal of Statistics|[Structure Sorting of Multiple Macromolecular States in Heterogeneous Cryo-EM Samples by 3D Multivariate Statistical Analysis](https://hal.science/hal-03827939/document)|
 |2015|JSB|[Directly reconstructing principal components of heterogeneous particles from cryo-EM images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4536832/)|
 |2016|Prtoein Cell|[A local-optimization refinement algorithm in single particle analysis for macromolecular complex with multiple rigid modules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707152/)|
