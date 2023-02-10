@@ -31,6 +31,7 @@ Following is a list of computational methods that address challenges in cryo-EM 
 
 |Year|Publisher|Title|
 |-----|-----|----|
+|2017|Nature|[cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination](https://www.nature.com/articles/nmeth.4169)|
 |2020|IEEE Transactions on Comp Imaging|[CryoGAN: A New Reconstruction Paradigm for Single-Particle Cryo-EM via Deep Adversarial Learning](https://www.biorxiv.org/content/10.1101/2020.03.20.001016v2)|
 |2021|ICCV|[CryoPoseNet: End-to-End Simultaneous Learning of Single-Particle Orientation and 3D Map Reconstruction From Cryo-Electron Microscopy Data](https://openaccess.thecvf.com/content/ICCV2021W/LCI/html/Nashed_CryoPoseNet_End-to-End_Simultaneous_Learning_of_Single-Particle_Orientation_and_3D_Map_ICCVW_2021_paper.html)|
 |2022|ECCV|[CryoAI: Amortized Inference of Poses for Ab Initio Reconstruction of 3D Molecular Volumes from Real Cryo-EM Images](https://arxiv.org/abs/2203.08138)|
